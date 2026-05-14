@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="JocPa/JocPa.vcxproj" Id="a3a17398-5b42-4e63-a97a-46f5f4702b9c" />
+</Solution>
